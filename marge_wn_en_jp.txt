@@ -1,0 +1,1000 @@
+n01440764	[tench],[Tinca tinca]
+n01443537	[goldfish],[Carassius auratus]【金魚】
+n01484850	[great white shark],[white shark],[man-eater],[man-eating shark],[Carcharodon carcharias]【白鮫】
+n01491361	[tiger shark],[Galeocerdo cuvieri]【イタチザメ】
+n01494475	[hammerhead],[hammerhead shark]【撞木鮫】
+n01496331	[electric ray],[crampfish],[numbfish],[torpedo]【魚雷】
+n01498041	[stingray]【鱝】
+n01514668	[cock]【鶏】
+n01514859	[hen]【鶏】
+n01518878	[ostrich],[Struthio camelus]【鴕鳥】
+n01530575	[brambling],[Fringilla montifringilla]【花鶏】
+n01531178	[goldfinch],[Carduelis carduelis]
+n01532829	[house finch],[linnet],[Carpodacus mexicanus]【メキシコマシコ】
+n01534433	[junco],[snowbird]
+n01537544	[indigo bunting],[indigo finch],[indigo bird],[Passerina cyanea]【ルリノジコ】
+n01558993	[robin],[American robin],[Turdus migratorius]【駒鳥】
+n01560419	[bulbul]【鵯】
+n01580077	[jay]【樫鳥】
+n01582220	[magpie]【鵲】
+n01592084	[chickadee]【四十雀】
+n01601694	[water ouzel],[dipper]【柄杓】
+n01608432	[kite]【鳶凧】
+n01614925	[bald eagle],[American eagle],[Haliaeetus leucocephalus]【白頭鷲】
+n01616318	[vulture]【禿鷹】
+n01622779	[great grey owl],[great gray owl],[Strix nebulosa]【カラフトフクロウ】
+n01629819	[European fire salamander],[Salamandra salamandra]
+n01630670	[common newt],[Triturus vulgaris]
+n01631663	[eft]
+n01632458	[spotted salamander],[Ambystoma maculatum]
+n01632777	[axolotl],[mud puppy],[Ambystoma mexicanum]【アホロートル】
+n01641577	[bullfrog],[Rana catesbeiana]【食用蛙】
+n01644373	[tree frog],[tree-frog]【青蛙】
+n01644900	[tailed frog],[bell toad],[ribbed toad],[tailed toad],[Ascaphus trui]
+n01664065	[loggerhead],[loggerhead turtle],[Caretta caretta]【赤海亀】
+n01665541	[leatherback turtle],[leatherback],[leathery turtle],[Dermochelys coriacea]
+n01667114	[mud turtle]【鼈】
+n01667778	[terrapin]【スッポン】
+n01669191	[box turtle],[box tortoise]
+n01675722	[banded gecko]
+n01677366	[common iguana],[iguana],[Iguana iguana]【イグアナ】
+n01682714	[American chameleon],[anole],[Anolis carolinensis]
+n01685808	[whiptail],[whiptail lizard]
+n01687978	[agama]
+n01688243	[frilled lizard],[Chlamydosaurus kingi]
+n01689811	[alligator lizard]
+n01692333	[Gila monster],[Heloderma suspectum]
+n01693334	[green lizard],[Lacerta viridis]
+n01694178	[African chameleon],[Chamaeleo chamaeleon]
+n01695060	[Komodo dragon],[Komodo lizard],[dragon lizard],[giant lizard],[Varanus komodoensis]【コモド大蜥蜴】
+n01697457	[African crocodile],[Nile crocodile],[Crocodylus niloticus]【ナイル鰐】
+n01698640	[American alligator],[Alligator mississipiensis]【ミシシッピ鰐】
+n01704323	[triceratops]【三角竜】
+n01728572	[thunder snake],[worm snake],[Carphophis amoenus]【盲蛇】
+n01728920	[ringneck snake],[ring-necked snake],[ring snake]
+n01729322	[hognose snake],[puff adder],[sand viper]
+n01729977	[green snake],[grass snake]
+n01734418	[king snake],[kingsnake]
+n01735189	[garter snake],[grass snake]
+n01737021	[water snake]
+n01739381	[vine snake]
+n01740131	[night snake],[Hypsiglena torquata]
+n01742172	[boa constrictor],[Constrictor constrictor]【蠎】
+n01744401	[rock python],[rock snake],[Python sebae]【錦蛇】
+n01748264	[Indian cobra],[Naja naja]
+n01749939	[green mamba]
+n01751748	[sea snake]【海蛇】
+n01753488	[horned viper],[cerastes],[sand viper],[horned asp],[Cerastes cornutus]
+n01755581	[diamondback],[diamondback rattlesnake],[Crotalus adamanteus]【ダイヤガラガラヘビ】
+n01756291	[sidewinder],[horned rattlesnake],[Crotalus cerastes]【ヨコバイガラガラヘビ】
+n01768244	[trilobite]【三葉虫】
+n01770081	[harvestman],[daddy longlegs],[Phalangium opilio]【蚊蜻蛉】
+n01770393	[scorpion]【蠍】
+n01773157	[black and gold garden spider],[Argiope aurantia]
+n01773549	[barn spider],[Araneus cavaticus]
+n01773797	[garden spider],[Aranea diademata]
+n01774384	[black widow],[Latrodectus mactans]
+n01774750	[tarantula]【タランチュラ】
+n01775062	[wolf spider],[hunting spider]【コモリグモ】
+n01776313	[tick]【蒲団皮】
+n01784675	[centipede]【蜈蚣】
+n01795545	[black grouse]【クロライチョウ】
+n01796340	[ptarmigan]【雷鳥】
+n01797886	[ruffed grouse],[partridge],[Bonasa umbellus]【鷓鴣】
+n01798484	[prairie chicken],[prairie grouse],[prairie fowl]【軽い】
+n01806143	[peacock]【越鳥】
+n01806567	[quail]【鶉】
+n01807496	[partridge]【鷓鴣】
+n01817953	[African grey],[African gray],[Psittacus erithacus]
+n01818515	[macaw]
+n01819313	[sulphur-crested cockatoo],[Kakatoe galerita],[Cacatua galerita]
+n01820546	[lorikeet]
+n01824575	[coucal]
+n01828970	[bee eater]
+n01829413	[hornbill]【犀鳥】
+n01833805	[hummingbird]【蜂鳥】
+n01843065	[jacamar]
+n01843383	[toucan]【大嘴】
+n01847000	[drake]【鴨】
+n01855032	[red-breasted merganser],[Mergus serrator]【海秋沙】
+n01855672	[goose]【鵞鳥】
+n01860187	[black swan],[Cygnus atratus]【黒鳥】
+n01871265	[tusker]
+n01872401	[echidna],[spiny anteater],[anteater]【針土竜】
+n01873310	[platypus],[duckbill],[duckbilled platypus],[duck-billed platypus],[Ornithorhynchus anatinus]【鴨の嘴】
+n01877812	[wallaby],[brush kangaroo]【ワラビー】
+n01882714	[koala],[koala bear],[kangaroo bear],[native bear],[Phascolarctos cinereus]【袋熊】
+n01883070	[wombat]【袋熊擬き】
+n01910747	[jellyfish]【海月】
+n01914609	[sea anemone],[anemone]【磯巾着】
+n01917289	[brain coral]【脳珊瑚】
+n01924916	[flatworm],[platyhelminth]【扁虫類】
+n01930112	[nematode],[nematode worm],[roundworm]【袋形動物】
+n01943899	[conch]【貝】
+n01944390	[snail]【螺】
+n01945685	[slug]【鈍間】
+n01950731	[sea slug],[nudibranch]【海鼠】
+n01955084	[chiton],[coat-of-mail shell],[sea cradle],[polyplacophore]【ヒザラガイ】
+n01968897	[chambered nautilus],[pearly nautilus],[nautilus]【鸚鵡貝】
+n01978287	[Dungeness crab],[Cancer magister]
+n01978455	[rock crab],[Cancer irroratus]
+n01980166	[fiddler crab]
+n01981276	[king crab],[Alaska crab],[Alaskan king crab],[Alaska king crab],[Paralithodes camtschatica]【鱈場蟹】
+n01983481	[American lobster],[Northern lobster],[Maine lobster],[Homarus americanus]
+n01984695	[spiny lobster],[langouste],[rock lobster],[crawfish],[crayfish],[sea crawfish]【蝦】
+n01985128	[crayfish],[crawfish],[crawdad],[crawdaddy]【鰕】
+n01986214	[hermit crab]【陸宿借り】
+n01990800	[isopod]【等脚目】
+n02002556	[white stork],[Ciconia ciconia]【シュバシコウ】
+n02002724	[black stork],[Ciconia nigra]【ナベコウ】
+n02006656	[spoonbill]【箆鷺】
+n02007558	[flamingo]【紅鶴】
+n02009229	[little blue heron],[Egretta caerulea]
+n02009912	[American egret],[great white heron],[Egretta albus]
+n02011460	[bittern]【苦汁】
+n02012849	[crane]【鶴】
+n02013706	[limpkin],[Aramus pictus]
+n02017213	[European gallinule],[Porphyrio porphyrio]
+n02018207	[American coot],[marsh hen],[mud hen],[water hen],[Fulica americana]【アメリカオオバン】
+n02018795	[bustard]
+n02025239	[ruddy turnstone],[Arenaria interpres]
+n02027492	[red-backed sandpiper],[dunlin],[Erolia alpina]【ハマシギ】
+n02028035	[redshank],[Tringa totanus]
+n02033041	[dowitcher]
+n02037110	[oystercatcher],[oyster catcher]【ミヤコドリ族】
+n02051845	[pelican]【伽藍鳥】
+n02056570	[king penguin],[Aptenodytes patagonica]【キングペンギン】
+n02058221	[albatross],[mollymawk]【馬鹿鳥】
+n02066245	[grey whale],[gray whale],[devilfish],[Eschrichtius gibbosus],[Eschrichtius robustus]【糸巻エイ】
+n02071294	[killer whale],[killer],[orca],[grampus],[sea wolf],[Orcinus orca]【鯱】
+n02074367	[dugong],[Dugong dugon]【海牛】
+n02077923	[sea lion]【葦鹿】
+n02085620	[Chihuahua]【チワワ】
+n02085782	[Japanese spaniel]【狆】
+n02085936	[Maltese dog],[Maltese terrier],[Maltese]【マルチーズ】
+n02086079	[Pekinese],[Pekingese],[Peke]【ペキニーズ】
+n02086240	[Shih-Tzu]【シーズー】
+n02086646	[Blenheim spaniel]【ブレナムスパニエル】
+n02086910	[papillon]【パピヨン】
+n02087046	[toy terrier]【トイテリア】
+n02087394	[Rhodesian ridgeback]
+n02088094	[Afghan hound],[Afghan]【アフガン編み】
+n02088238	[basset],[basset hound]【バセットハウンド】
+n02088364	[beagle]【ビーグル】
+n02088466	[bloodhound],[sleuthhound]【警察犬】
+n02088632	[bluetick]
+n02089078	[black-and-tan coonhound]
+n02089867	[Walker hound],[Walker foxhound]
+n02089973	[English foxhound]
+n02090379	[redbone]
+n02090622	[borzoi],[Russian wolfhound]【ボルゾイ】
+n02090721	[Irish wolfhound]【アイリッシュウルフハウンド】
+n02091032	[Italian greyhound]【イタリアン・グレーハウンド】
+n02091134	[whippet]
+n02091244	[Ibizan hound],[Ibizan Podenco]
+n02091467	[Norwegian elkhound],[elkhound]
+n02091635	[otterhound],[otter hound]【オッターハウンド】
+n02091831	[Saluki],[gazelle hound]
+n02092002	[Scottish deerhound],[deerhound]
+n02092339	[Weimaraner]
+n02093256	[Staffordshire bullterrier],[Staffordshire bull terrier]
+n02093428	[American Staffordshire terrier],[Staffordshire terrier],[American pit bull terrier],[pit bull terrier]【アメリカン・ピット・ブル・テリア】
+n02093647	[Bedlington terrier]【ベドリントン・テリア】
+n02093754	[Border terrier]
+n02093859	[Kerry blue terrier]
+n02093991	[Irish terrier]
+n02094114	[Norfolk terrier]
+n02094258	[Norwich terrier]
+n02094433	[Yorkshire terrier]【ヨークシャーテリア】
+n02095314	[wire-haired fox terrier]
+n02095570	[Lakeland terrier]
+n02095889	[Sealyham terrier],[Sealyham]
+n02096051	[Airedale],[Airedale terrier]
+n02096177	[cairn],[cairn terrier]【ケルン】
+n02096294	[Australian terrier]
+n02096437	[Dandie Dinmont],[Dandie Dinmont terrier]
+n02096585	[Boston bull],[Boston terrier]
+n02097047	[miniature schnauzer]【陥れる】
+n02097130	[giant schnauzer]【ジャイアント・シュナウザー】
+n02097209	[standard schnauzer]
+n02097298	[Scotch terrier],[Scottish terrier],[Scottie]【スコッチテリア】
+n02097474	[Tibetan terrier],[chrysanthemum dog]
+n02097658	[silky terrier],[Sydney silky]
+n02098105	[soft-coated wheaten terrier]
+n02098286	[West Highland white terrier]【ウエスト・ハイランド・ホワイト・テリア】
+n02098413	[Lhasa],[Lhasa apso]【ラサ】
+n02099267	[flat-coated retriever]
+n02099429	[curly-coated retriever]
+n02099601	[golden retriever]【ゴールデン・レトリバー】
+n02099712	[Labrador retriever]【ラブラドール・レトリバー】
+n02099849	[Chesapeake Bay retriever]【チェサピーク・ベイ・レトリーバー】
+n02100236	[German short-haired pointer]【高齢の】
+n02100583	[vizsla],[Hungarian pointer]
+n02100735	[English setter]
+n02100877	[Irish setter],[red setter]【アイリッシュ・セッター】
+n02101006	[Gordon setter]
+n02101388	[Brittany spaniel]
+n02101556	[clumber],[clumber spaniel]
+n02102040	[English springer],[English springer spaniel]【イングリッシュ・スプリンガー・スパニエル】
+n02102177	[Welsh springer spaniel]【ウェルシュスプリンガースパニエル】
+n02102318	[cocker spaniel],[English cocker spaniel],[cocker]【撫育】
+n02102480	[Sussex spaniel]
+n02102973	[Irish water spaniel]
+n02104029	[kuvasz]
+n02104365	[schipperke]
+n02105056	[groenendael]
+n02105162	[malinois]
+n02105251	[briard]
+n02105412	[kelpie]
+n02105505	[komondor]
+n02105641	[Old English sheepdog],[bobtail]【ボブテール】
+n02105855	[Shetland sheepdog],[Shetland sheep dog],[Shetland]【シェットランド・シープドッグ】
+n02106030	[collie]【コリー】
+n02106166	[Border collie]【ボーダー・コリー】
+n02106382	[Bouvier des Flandres],[Bouviers des Flandres]
+n02106550	[Rottweiler]
+n02106662	[German shepherd],[German shepherd dog],[German police dog],[alsatian]【シェパード】
+n02107142	[Doberman],[Doberman pinscher]
+n02107312	[miniature pinscher]【ミニチュア・ピンシャー】
+n02107574	[Greater Swiss Mountain dog]
+n02107683	[Bernese mountain dog]【バーニーズ・マウンテン・ドッグ】
+n02107908	[Appenzeller]
+n02108000	[EntleBucher]
+n02108089	[boxer]【闘士】
+n02108422	[bull mastiff]
+n02108551	[Tibetan mastiff]【チベタンマスチフ】
+n02108915	[French bulldog]【フレンチ・ブルドッグ】
+n02109047	[Great Dane]【グレートデン】
+n02109525	[Saint Bernard],[St Bernard]【サンベルナール峠】
+n02109961	[Eskimo dog],[husky]【嗄れ】
+n02110063	[malamute],[malemute],[Alaskan malamute]【アラスカン・マラミュート】
+n02110185	[Siberian husky]【シベリアンハスキー】
+n02110341	[dalmatian],[coach dog],[carriage dog]
+n02110627	[affenpinscher],[monkey pinscher],[monkey dog]【アーフェンピンシャー】
+n02110806	[basenji]
+n02110958	[pug],[pug-dog]【パグ】
+n02111129	[Leonberg]
+n02111277	[Newfoundland],[Newfoundland dog]
+n02111500	[Great Pyrenees]
+n02111889	[Samoyed],[Samoyede]
+n02112018	[Pomeranian]【スピッツ】
+n02112137	[chow],[chow chow]【飼料】
+n02112350	[keeshond]
+n02112706	[Brabancon griffon]【ブラバンソングリフォン】
+n02113023	[Pembroke],[Pembroke Welsh corgi]【ペンブローク】
+n02113186	[Cardigan],[Cardigan Welsh corgi]【セーター】
+n02113624	[toy poodle]
+n02113712	[miniature poodle]
+n02113799	[standard poodle]
+n02113978	[Mexican hairless]
+n02114367	[timber wolf],[grey wolf],[gray wolf],[Canis lupus]【灰色狼】
+n02114548	[white wolf],[Arctic wolf],[Canis lupus tundrarum]
+n02114712	[red wolf],[maned wolf],[Canis rufus],[Canis niger]【赤狼】
+n02114855	[coyote],[prairie wolf],[brush wolf],[Canis latrans]【ヤマイヌ】
+n02115641	[dingo],[warrigal],[warragal],[Canis dingo]【ディンゴ】
+n02115913	[dhole],[Cuon alpinus]
+n02116738	[African hunting dog],[hyena dog],[Cape hunting dog],[Lycaon pictus]
+n02117135	[hyena],[hyaena]【ハイエナ】
+n02119022	[red fox],[Vulpes vulpes]
+n02119789	[kit fox],[Vulpes macrotis]
+n02120079	[Arctic fox],[white fox],[Alopex lagopus]【白狐】
+n02120505	[grey fox],[gray fox],[Urocyon cinereoargenteus]
+n02123045	[tabby],[tabby cat]【虎猫】
+n02123159	[tiger cat]【虎猫】
+n02123394	[Persian cat]【ペルシア猫】
+n02123597	[Siamese cat],[Siamese]【シャム猫】
+n02124075	[Egyptian cat]
+n02125311	[cougar],[puma],[catamount],[mountain lion],[painter],[panther],[Felis concolor]【黒豹】
+n02127052	[lynx],[catamount]【山猫】
+n02128385	[leopard],[Panthera pardus]【豹】
+n02128757	[snow leopard],[ounce],[Panthera uncia]【欠片】
+n02128925	[jaguar],[panther],[Panthera onca],[Felis onca]【黒豹】
+n02129165	[lion],[king of beasts],[Panthera leo]【金毛】
+n02129604	[tiger],[Panthera tigris]【豪雄】
+n02130308	[cheetah],[chetah],[Acinonyx jubatus]【チーター】
+n02132136	[brown bear],[bruin],[Ursus arctos]【羆】
+n02133161	[American black bear],[black bear],[Ursus americanus],[Euarctos americanus]【黒熊】
+n02134084	[ice bear],[polar bear],[Ursus Maritimus],[Thalarctos maritimus]【白熊】
+n02134418	[sloth bear],[Melursus ursinus],[Ursus ursinus]
+n02137549	[mongoose]【マングース】
+n02138441	[meerkat],[mierkat]【ミーアキャット】
+n02165105	[tiger beetle]【道標】
+n02165456	[ladybug],[ladybeetle],[lady beetle],[ladybird],[ladybird beetle]【瓢虫】
+n02167151	[ground beetle],[carabid beetle]【蚯蚓】
+n02168699	[long-horned beetle],[longicorn],[longicorn beetle]【髪切り虫】
+n02169497	[leaf beetle],[chrysomelid]【金花虫】
+n02172182	[dung beetle]【糞虫】
+n02174001	[rhinoceros beetle]【甲虫】
+n02177972	[weevil]【象虫】
+n02190166	[fly]【飛行】
+n02206856	[bee]【ハナバチ】
+n02219486	[ant],[emmet],[pismire]【蟻】
+n02226429	[grasshopper],[hopper]【飛蝗】
+n02229544	[cricket]【鈴虫】
+n02231487	[walking stick],[walkingstick],[stick insect]【松葉杖】
+n02233338	[cockroach],[roach]【諸子】
+n02236044	[mantis],[mantid]【鎌切】
+n02256656	[cicada],[cicala]【蝉】
+n02259212	[leafhopper]【褄黒横這い】
+n02264363	[lacewing],[lacewing fly]
+n02268443	[dragonfly],[darning needle],[devil's darning needle],[sewing needle],[snake feeder],[snake doctor],[mosquito hawk],[skeeter hawk]【麦藁蜻蛉】
+n02268853	[damselfly]【鉄漿蜻蛉】
+n02276258	[admiral]【提督】
+n02277742	[ringlet],[ringlet butterfly]【毛巻き】
+n02279972	[monarch],[monarch butterfly],[milkweed butterfly],[Danaus plexippus]【諸王】
+n02280649	[cabbage butterfly]【紋白蝶】
+n02281406	[sulphur butterfly],[sulfur butterfly]
+n02281787	[lycaenid],[lycaenid butterfly]【蜆蝶】
+n02317335	[starfish],[sea star]【海星】
+n02319095	[sea urchin]【雲丹】
+n02321529	[sea cucumber],[holothurian]【海鼠】
+n02325366	[wood rabbit],[cottontail],[cottontail rabbit]
+n02326432	[hare]【野兎】
+n02328150	[Angora],[Angora rabbit]【アンゴラ】
+n02342885	[hamster]【ハムスター】
+n02346627	[porcupine],[hedgehog]【防砦】
+n02356798	[fox squirrel],[eastern fox squirrel],[Sciurus niger]
+n02361337	[marmot]【モルモット】
+n02363005	[beaver]【海狸】
+n02364673	[guinea pig],[Cavia cobaya]【試験台】
+n02389026	[sorrel]【羊蹄】
+n02391049	[zebra]【縞馬】
+n02395406	[hog],[pig],[grunter],[squealer],[Sus scrofa]【飼い豚】
+n02396427	[wild boar],[boar],[Sus scrofa]【野猪】
+n02397096	[warthog]【疣猪】
+n02398521	[hippopotamus],[hippo],[river horse],[Hippopotamus amphibius]【河馬】
+n02403003	[ox]【雄牛】
+n02408429	[water buffalo],[water ox],[Asiatic buffalo],[Bubalus bubalis]【野牛】
+n02410509	[bison]【野牛】
+n02412080	[ram],[tup]【雄羊】
+n02415577	[bighorn],[bighorn sheep],[cimarron],[Rocky Mountain bighorn],[Rocky Mountain sheep],[Ovis canadensis]
+n02417914	[ibex],[Capra ibex]
+n02422106	[hartebeest]【ハーテビースト】
+n02422699	[impala],[Aepyceros melampus]【インパラ】
+n02423022	[gazelle]【ガゼール】
+n02437312	[Arabian camel],[dromedary],[Camelus dromedarius]【単峰駱駝】
+n02437616	[llama]【喇嘛】
+n02441942	[weasel]【鼬鼠】
+n02442845	[mink]【鼬鼠】
+n02443114	[polecat],[fitch],[foulmart],[foumart],[Mustela putorius]【鼬鼠】
+n02443484	[black-footed ferret],[ferret],[Mustela nigripes]【フェレット】
+n02444819	[otter]【獺】
+n02445715	[skunk],[polecat],[wood pussy]【鼻摘み】
+n02447366	[badger]【貛】
+n02454379	[armadillo]【鎧鼠】
+n02457408	[three-toed sloth],[ai],[Bradypus tridactylus]
+n02480495	[orangutan],[orang],[orangutang],[Pongo pygmaeus]【猩猩】
+n02480855	[gorilla],[Gorilla gorilla]【大猩猩】
+n02481823	[chimpanzee],[chimp],[Pan troglodytes]【黒猩猩】
+n02483362	[gibbon],[Hylobates lar]【手長猿】
+n02483708	[siamang],[Hylobates syndactylus],[Symphalangus syndactylus]【フクロテナガザル】
+n02484975	[guenon],[guenon monkey]【尾長猿】
+n02486261	[patas],[hussar monkey],[Erythrocebus patas]
+n02486410	[baboon]【狒狒】
+n02487347	[macaque]【マカク属】
+n02488291	[langur]【瘠猿】
+n02488702	[colobus],[colobus monkey]【コロブス】
+n02489166	[proboscis monkey],[Nasalis larvatus]【天狗猿】
+n02490219	[marmoset]【マーモセット】
+n02492035	[capuchin],[ringtail],[Cebus capucinus]【尾巻猿】
+n02492660	[howler monkey],[howler]【吠猿】
+n02493509	[titi],[titi monkey]【ティティ】
+n02493793	[spider monkey],[Ateles geoffroyi]【蜘蛛猿】
+n02494079	[squirrel monkey],[Saimiri sciureus]【リスザル】
+n02497673	[Madagascar cat],[ring-tailed lemur],[Lemur catta]
+n02500267	[indri],[indris],[Indri indri],[Indri brevicaudatus]【インドリ】
+n02504013	[Indian elephant],[Elephas maximus]【インドゾウ】
+n02504458	[African elephant],[Loxodonta africana]【アフリカ象】
+n02509815	[lesser panda],[red panda],[panda],[bear cat],[cat bear],[Ailurus fulgens]【熊猫】
+n02510455	[giant panda],[panda],[panda bear],[coon bear],[Ailuropoda melanoleuca]【熊猫】
+n02514041	[barracouta],[snoek]
+n02526121	[eel]【鰻】
+n02536864	[coho],[cohoe],[coho salmon],[blue jack],[silver salmon],[Oncorhynchus kisutch]
+n02606052	[rock beauty],[Holocanthus tricolor]
+n02607072	[anemone fish]【クマノミ】
+n02640242	[sturgeon]【鱣】
+n02641379	[gar],[garfish],[garpike],[billfish],[Lepisosteus osseus]【鱚】
+n02643566	[lionfish]【ミノカサゴ】
+n02655020	[puffer],[pufferfish],[blowfish],[globefish]【鉄砲】
+n02666196	[abacus]【算盤】
+n02667093	[abaya]【アバーヤ】
+n02669723	[academic gown],[academic robe],[judge's robe]【法服】
+n02672831	[accordion],[piano accordion],[squeeze box]【風琴】
+n02676566	[acoustic guitar]【アコースティックギター】
+n02687172	[aircraft carrier],[carrier],[flattop],[attack aircraft carrier]【郵便配達】
+n02690373	[airliner]【旅客機】
+n02692877	[airship],[dirigible]【飛行船】
+n02699494	[altar]【霊室】
+n02701002	[ambulance]【救急車】
+n02704792	[amphibian],[amphibious vehicle]【水陸両用車】
+n02708093	[analog clock]【アナログクロック】
+n02727426	[apiary],[bee house]【養蜂場】
+n02730930	[apron]【駐機場】
+n02747177	[ashcan],[trash can],[garbage can],[wastebin],[ash bin],[ash-bin],[ashbin],[dustbin],[trash barrel],[trash bin]【芥箱】
+n02749479	[assault rifle],[assault gun]【アサルトライフル】
+n02769748	[backpack],[back pack],[knapsack],[packsack],[rucksack],[haversack]【背嚢】
+n02776631	[bakery],[bakeshop],[bakehouse]【ベーカリー】
+n02777292	[balance beam],[beam]【頬笑】
+n02782093	[balloon]【風船】
+n02783161	[ballpoint],[ballpoint pen],[ballpen],[Biro]
+n02786058	[Band Aid]【絆創膏】
+n02787622	[banjo]【バンジョー】
+n02788148	[bannister],[banister],[balustrade],[balusters],[handrail]【高欄】
+n02790996	[barbell]【バーベル】
+n02791124	[barber chair]【理髪店のいす】
+n02791270	[barbershop]【髪結床】
+n02793495	[barn]【馬屋】
+n02794156	[barometer]【験気器】
+n02795169	[barrel],[cask]【銃身】
+n02797295	[barrow],[garden cart],[lawn cart],[wheelbarrow]【猫車】
+n02799071	[baseball]【野球ボール】
+n02802426	[basketball]【籠球】
+n02804414	[bassinet]
+n02804610	[bassoon]【ファゴット】
+n02807133	[bathing cap],[swimming cap]【海水帽】
+n02808304	[bath towel]【湯手】
+n02808440	[bathtub],[bathing tub],[bath],[tub]【風呂桶】
+n02814533	[beach wagon],[station wagon],[wagon],[estate car],[beach waggon],[station waggon],[waggon]【駕】
+n02814860	[beacon],[lighthouse],[beacon light],[pharos]【航路標識】
+n02815834	[beaker]【ビーカー】
+n02817516	[bearskin],[busby],[shako]【ベアスキン】
+n02823428	[beer bottle]【ビール瓶】
+n02823750	[beer glass]
+n02825657	[bell cote],[bell cot]
+n02834397	[bib]【金太郎腹掛け】
+n02835271	[bicycle-built-for-two],[tandem bicycle],[tandem]【直列型】
+n02837789	[bikini],[two-piece]【ビキニ】
+n02840245	[binder],[ring-binder]【結合剤】
+n02841315	[binoculars],[field glasses],[opera glasses]【眼鏡】
+n02843684	[birdhouse]【鳥小屋】
+n02859443	[boathouse]【遊船宿】
+n02860847	[bobsled],[bobsleigh],[bob]【浮沈み】
+n02865351	[bolo tie],[bolo],[bola tie],[bola]【ループタイ】
+n02869837	[bonnet],[poke bonnet]【被り】
+n02870880	[bookcase]【総書】
+n02871525	[bookshop],[bookstore],[bookstall]【本屋】
+n02877765	[bottlecap]
+n02879718	[bow]【辞宜】
+n02883205	[bow tie],[bow-tie],[bowtie]【蝶ネクタイ】
+n02892201	[brass],[memorial tablet],[plaque]【黄銅】
+n02892767	[brassiere],[bra],[bandeau]【ブラジャー】
+n02894605	[breakwater],[groin],[groyne],[mole],[bulwark],[seawall],[jetty]【鼠頚部】
+n02895154	[breastplate],[aegis],[egis]【腹巻き】
+n02906734	[broom]【草箒】
+n02909870	[bucket],[pail]【麻笥】
+n02910353	[buckle]【締金】
+n02916936	[bulletproof vest]【防弾チョッキ】
+n02917067	[bullet train],[bullet]【銃弾】
+n02927161	[butcher shop],[meat market]【肉屋】
+n02930766	[cab],[hack],[taxi],[taxicab]【駕】
+n02939185	[caldron],[cauldron]【鍋】
+n02948072	[candle],[taper],[wax light]【蝋燭】
+n02950826	[cannon]【龍頭】
+n02951358	[canoe]【虚舟】
+n02951585	[can opener],[tin opener]【罐切り】
+n02963159	[cardigan]【襦袢】
+n02965783	[car mirror]
+n02966193	[carousel],[carrousel],[merry-go-round],[roundabout],[whirligig]【迂遠】
+n02966687	[carpenter's kit],[tool kit]
+n02971356	[carton]【ボール箱】
+n02974003	[car wheel]
+n02977058	[cash machine],[cash dispenser],[automated teller machine],[automatic teller machine],[automated teller],[automatic teller],[ATM]【自動金銭出入機】
+n02978881	[cassette]【テープ】
+n02979186	[cassette player]
+n02980441	[castle]【館城】
+n02981792	[catamaran]【双胴船】
+n02988304	[CD player]【ＣＤプレーヤー】
+n02992211	[cello],[violoncello]【チェロ】
+n02992529	[cellular telephone],[cellular phone],[cellphone],[cell],[mobile phone]【電池】
+n02999410	[chain]【鎖】
+n03000134	[chainlink fence]
+n03000247	[chain mail],[ring mail],[mail],[chain armor],[chain armour],[ring armor],[ring armour]【鎖帷子】
+n03000684	[chain saw],[chainsaw]【鎖鋸】
+n03014705	[chest]【胸間】
+n03016953	[chiffonier],[commode]【褻器】
+n03017168	[chime],[bell],[gong]【鹿鳴】
+n03018349	[china cabinet],[china closet]
+n03026506	[Christmas stocking]【クリスマスストッキング】
+n03028079	[church],[church building]【聖堂】
+n03032252	[cinema],[movie theater],[movie theatre],[movie house],[picture palace]【電影】
+n03041632	[cleaver],[meat cleaver],[chopper]【牛刀】
+n03042490	[cliff dwelling]
+n03045698	[cloak]【鳶合羽】
+n03047690	[clog],[geta],[patten],[sabot]【阻遏】
+n03062245	[cocktail shaker]
+n03063599	[coffee mug]【コーヒーマグ】
+n03063689	[coffeepot]【コーヒーポット】
+n03065424	[coil],[spiral],[volute],[whorl],[helix]【観世水】
+n03075370	[combination lock]【組み合わせ錠】
+n03085013	[computer keyboard],[keypad]【キーパッド】
+n03089624	[confectionery],[confectionary],[candy store]【飴屋】
+n03095699	[container ship],[containership],[container vessel]【フルコンテナ船】
+n03100240	[convertible]【可変】
+n03109150	[corkscrew],[bottle screw]【瓶抜き】
+n03110669	[cornet],[horn],[trumpet],[trump]【警笛】
+n03124043	[cowboy boot]【カウボーイブーツ】
+n03124170	[cowboy hat],[ten-gallon hat]【テンガロンハット】
+n03125729	[cradle]【離被架】
+n03126707	[crane]【鶴】
+n03127747	[crash helmet]
+n03127925	[crate]【銭箱】
+n03131574	[crib],[cot]【馬槽】
+n03133878	[Crock Pot]
+n03134739	[croquet ball]
+n03141823	[crutch]【胯座】
+n03146219	[cuirass]【胸当て】
+n03160309	[dam],[dike],[dyke]【障壁】
+n03179701	[desk]【釈台】
+n03180011	[desktop computer]【デスクトップPC】
+n03187595	[dial telephone],[dial phone]
+n03188531	[diaper],[nappy],[napkin]【重ね】
+n03196217	[digital clock]【デジタルクッロック】
+n03197337	[digital watch]【デジタル時計】
+n03201208	[dining table],[board]【飯台】
+n03207743	[dishrag],[dishcloth]【布巾】
+n03207941	[dishwasher],[dish washer],[dishwashing machine]【食洗機】
+n03208938	[disk brake],[disc brake]【通風式ディスク】
+n03216828	[dock],[dockage],[docking facility]【貯水池】
+n03218198	[dogsled],[dog sled],[dog sleigh]【犬橇】
+n03220513	[dome]【穹窿】
+n03223299	[doormat],[welcome mat]【靴拭き】
+n03240683	[drilling platform],[offshore rig]
+n03249569	[drum],[membranophone],[tympan]【鼓手】
+n03250847	[drumstick]【桴】
+n03255030	[dumbbell]【鈍才】
+n03259280	[Dutch oven]
+n03271574	[electric fan],[blower]【電気扇】
+n03272010	[electric guitar]【電気ギター】
+n03272562	[electric locomotive]【電気機関車】
+n03290653	[entertainment center]
+n03291819	[envelope]【革】
+n03297495	[espresso maker]
+n03314780	[face powder]【香粉】
+n03325584	[feather boa],[boa]【襟巻】
+n03337140	[file],[file cabinet],[filing cabinet]【隊列】
+n03344393	[fireboat]【消防艇】
+n03345487	[fire engine],[fire truck]【消防車】
+n03347037	[fire screen],[fireguard]
+n03355925	[flagpole],[flagstaff]【旗竿】
+n03372029	[flute],[transverse flute]【笛】
+n03376595	[folding chair]【畳椅子】
+n03379051	[football helmet]
+n03384352	[forklift]【フォークリフト】
+n03388043	[fountain]【泉水】
+n03388183	[fountain pen]【羽】
+n03388549	[four-poster]
+n03393912	[freight car]【貨車】
+n03394916	[French horn],[horn]【警笛】
+n03400231	[frying pan],[frypan],[skillet]【焼鍋】
+n03404251	[fur coat]【裘】
+n03417042	[garbage truck],[dustcart]【集塵車】
+n03424325	[gasmask],[respirator],[gas helmet]【防毒】
+n03425413	[gas pump],[gasoline pump],[petrol pump],[island dispenser]【豪華】
+n03443371	[goblet]【硝子】
+n03444034	[go-kart]【ゴーカート】
+n03445777	[golf ball]【ゴルフボール】
+n03445924	[golfcart],[golf cart]【ゴルフカート】
+n03447447	[gondola]【搬器】
+n03447721	[gong],[tam-tam]【鰐口】
+n03450230	[gown]【衣裳】
+n03452741	[grand piano],[grand]【雄渾】
+n03457902	[greenhouse],[nursery],[glasshouse]【養殖場】
+n03459775	[grille],[radiator grille]【格子】
+n03461385	[grocery store],[grocery],[food market],[market]【食料雑貨店】
+n03467068	[guillotine]【首斬台】
+n03476684	[hair slide]
+n03476991	[hair spray]【ヘヤスプレー】
+n03478589	[half track]
+n03481172	[hammer]【鎚】
+n03482405	[hamper]【鞄】
+n03483316	[hand blower],[blow dryer],[blow drier],[hair dryer],[hair drier]【ヘアードライヤー】
+n03485407	[hand-held computer],[hand-held microcomputer]【ハンドヘルドコンピューター】
+n03485794	[handkerchief],[hankie],[hanky],[hankey]【鼻拭き】
+n03492542	[hard disc],[hard disk],[fixed disk]【HD】
+n03494278	[harmonica],[mouth organ],[harp],[mouth harp]【竪琴】
+n03495258	[harp]【竪琴】
+n03496892	[harvester],[reaper]【収穫器】
+n03498962	[hatchet]【薪割り】
+n03527444	[holster]【ホルスター】
+n03529860	[home theater],[home theatre]
+n03530642	[honeycomb]【蜂窩状】
+n03532672	[hook],[claw]【餌】
+n03534580	[hoopskirt],[crinoline]【クリノリン】
+n03535780	[horizontal bar],[high bar]【鉄棒】
+n03538406	[horse cart],[horse-cart]
+n03544143	[hourglass]【アワーグラス】
+n03584254	[iPod]【ｉＰｏｄ】
+n03584829	[iron],[smoothing iron]【黒鉄】
+n03590841	[jack-o'-lantern]【鬼火】
+n03594734	[jean],[blue jean],[denim]【デニム】
+n03594945	[jeep],[landrover]【ジープ】
+n03595614	[jersey],[T-shirt],[tee shirt]【プルオーバー】
+n03598930	[jigsaw puzzle]【パズル】
+n03599486	[jinrikisha],[ricksha],[rickshaw]【豎子】
+n03602883	[joystick]【操縦桿】
+n03617480	[kimono]【角袖】
+n03623198	[knee pad]
+n03627232	[knot]【詰紐】
+n03630383	[lab coat],[laboratory coat]
+n03633091	[ladle]【蝌蚪】
+n03637318	[lampshade],[lamp shade]【秉燭】
+n03642806	[laptop],[laptop computer]【ラップトップパソコン】
+n03649909	[lawn mower],[mower]【草刈り】
+n03657121	[lens cap],[lens cover]
+n03658185	[letter opener],[paper knife],[paperknife]【紙裁庖丁】
+n03661043	[library]【蔵書】
+n03662601	[lifeboat]【救船】
+n03666591	[lighter],[light],[igniter],[ignitor]【鴻毛】
+n03670208	[limousine],[limo]【リムジーン】
+n03673027	[liner],[ocean liner]【通船】
+n03676483	[lipstick],[lip rouge]【臙脂】
+n03680355	[Loafer]【食い倒れ】
+n03690938	[lotion]【洗薬】
+n03691459	[loudspeaker],[speaker],[speaker unit],[loudspeaker system],[speaker system]【議長】
+n03692522	[loupe],[jeweler's loupe]【拡大鏡】
+n03697007	[lumbermill],[sawmill]【製材所】
+n03706229	[magnetic compass]【磁石盤】
+n03709823	[mailbag],[postbag]【郵袋】
+n03710193	[mailbox],[letter box]【郵便箱】
+n03710637	[maillot]
+n03710721	[maillot],[tank suit]
+n03717622	[manhole cover]【マンホールの蓋】
+n03720891	[maraca]
+n03721384	[marimba],[xylophone]【木琴】
+n03724870	[mask]【面頬】
+n03729826	[matchstick]【軸木】
+n03733131	[maypole]【五月】
+n03733281	[maze],[labyrinth]【迷路】
+n03733805	[measuring cup]【メジャーカップ】
+n03742115	[medicine chest],[medicine cabinet]【薬籠】
+n03743016	[megalith],[megalithic structure]【巨石記念物】
+n03759954	[microphone],[mike]【マイクロホン】
+n03761084	[microwave],[microwave oven]【電子レンジ】
+n03763968	[military uniform]【軍装】
+n03764736	[milk can]
+n03769881	[minibus]【ミニバス】
+n03770439	[miniskirt],[mini]【ミニスカート】
+n03770679	[minivan]【ワンボックスカー】
+n03773504	[missile]【飛道具】
+n03775071	[mitten]【ミトン】
+n03775546	[mixing bowl]
+n03776460	[mobile home],[manufactured home]【モービルホーム】
+n03777568	[Model T]
+n03777754	[modem]【変復調装置】
+n03781244	[monastery]【道場】
+n03782006	[monitor]【聴取】
+n03785016	[moped]【原付き】
+n03786901	[mortar]【迫撃砲】
+n03787032	[mortarboard]【角帽】
+n03788195	[mosque]【教会】
+n03788365	[mosquito net]【蚊柱】
+n03791053	[motor scooter],[scooter]【大正スケート】
+n03792782	[mountain bike],[all-terrain bike],[off-roader]【マウンテンバイク】
+n03792972	[mountain tent]
+n03793489	[mouse],[computer mouse]【鼠】
+n03794056	[mousetrap]【鼠落とし】
+n03796401	[moving van]
+n03803284	[muzzle]【鼻面】
+n03804744	[nail]【釘付け】
+n03814639	[neck brace]
+n03814906	[necklace]【首飾り】
+n03825788	[nipple]【乳首】
+n03832673	[notebook],[notebook computer]【ノートパソコン】
+n03837869	[obelisk]【高閣】
+n03838899	[oboe],[hautboy],[hautbois]【オーボー】
+n03840681	[ocarina],[sweet potato]【長薯】
+n03841143	[odometer],[hodometer],[mileometer],[milometer]【輪程計】
+n03843555	[oil filter]【油漉し】
+n03854065	[organ],[pipe organ]【風琴】
+n03857828	[oscilloscope],[scope],[cathode-ray oscilloscope],[CRO]【領域】
+n03866082	[overskirt]
+n03868242	[oxcart]【牛車】
+n03868863	[oxygen mask]
+n03871628	[packet]【通船】
+n03873416	[paddle],[boat paddle]【舵】
+n03874293	[paddlewheel],[paddle wheel]【車船】
+n03874599	[padlock]【鍵】
+n03876231	[paintbrush]【絵筆】
+n03877472	[pajama],[pyjama],[pj's],[jammies]【寝間着】
+n03877845	[palace]【館娃】
+n03884397	[panpipe],[pandean pipe],[syrinx]【鳴管】
+n03887697	[paper towel]【ペーパータオル】
+n03888257	[parachute],[chute]【飛膜】
+n03888605	[parallel bars],[bars]【格子】
+n03891251	[park bench]【ろは台】
+n03891332	[parking meter]【パーキングメーター】
+n03895866	[passenger car],[coach],[carriage]【駕】
+n03899768	[patio],[terrace]【石畳】
+n03902125	[pay-phone],[pay-station]
+n03903868	[pedestal],[plinth],[footstall]【鐙】
+n03908618	[pencil box],[pencil case]【筆箱】
+n03908714	[pencil sharpener]【鉛筆削り】
+n03916031	[perfume],[essence]【骨髄】
+n03920288	[Petri dish]【ペトリ皿】
+n03924679	[photocopier]【謄写器】
+n03929660	[pick],[plectrum],[plectron]【鶴嘴】
+n03929855	[pickelhaube]
+n03930313	[picket fence],[paling]【柵】
+n03930630	[pickup],[pickup truck]【聴込み】
+n03933933	[pier]【電池】
+n03935335	[piggy bank],[penny bank]【貯金】
+n03937543	[pill bottle]
+n03938244	[pillow]【軸受け】
+n03942813	[ping-pong ball]
+n03944341	[pinwheel]【鼠花火】
+n03947888	[pirate],[pirate ship]【賊船】
+n03950228	[pitcher],[ewer]【鉢】
+n03954731	[plane],[carpenter's plane],[woodworking plane]【飛行機】
+n03956157	[planetarium]【星座投影機】
+n03958227	[plastic bag]【ビニール袋】
+n03961711	[plate rack]
+n03967562	[plow],[plough]【鋤】
+n03970156	[plunger],[plumber's helper]【ラバーカップ】
+n03976467	[Polaroid camera],[Polaroid Land camera]【ポラロイドカメラ】
+n03976657	[pole]【舵】
+n03977966	[police van],[police wagon],[paddy wagon],[patrol wagon],[wagon],[black Maria]【駕】
+n03980874	[poncho]【ポンチョ】
+n03982430	[pool table],[billiard table],[snooker table]【ビリヤードテーブル】
+n03983396	[pop bottle],[soda bottle]
+n03991062	[pot],[flowerpot]【鍋】
+n03992509	[potter's wheel]【轆轤】
+n03995372	[power drill]【ドリル】
+n03998194	[prayer rug],[prayer mat]
+n04004767	[printer]【活版屋】
+n04005630	[prison],[prison house]【鉄窓】
+n04008634	[projectile],[missile]【飛道具】
+n04009552	[projector]【映写機】
+n04019541	[puck],[hockey puck]【パック】
+n04023962	[punching bag],[punch bag],[punching ball],[punchball]【パンチボール】
+n04026417	[purse]【鞄】
+n04033901	[quill],[quill pen]【鵞ペン】
+n04033995	[quilt],[comforter],[comfort],[puff]【首巻き】
+n04037443	[racer],[race car],[racing car]【火玉】
+n04039381	[racket],[racquet]【雑音】
+n04040759	[radiator]【放熱器】
+n04041544	[radio],[wireless]【無電】
+n04044716	[radio telescope],[radio reflector]【電波望遠鏡】
+n04049303	[rain barrel]【天水桶】
+n04065272	[recreational vehicle],[RV],[R.V.]【レクリエーショナルビークル】
+n04067472	[reel]【麻せ】
+n04069434	[reflex camera]【二眼レフカメラ】
+n04070727	[refrigerator],[icebox]【氷箱】
+n04074963	[remote control],[remote]【遼遠】
+n04081281	[restaurant],[eating house],[eating place],[eatery]【飲食店】
+n04086273	[revolver],[six-gun],[six-shooter]【連発銃】
+n04090263	[rifle]【飛び道具】
+n04099969	[rocking chair],[rocker]【子守歌】
+n04111531	[rotisserie]
+n04116512	[rubber eraser],[rubber],[pencil eraser]【護謨】
+n04118538	[rugby ball]
+n04118776	[rule],[ruler]【領知】
+n04120489	[running shoe]
+n04125021	[safe]【金庫】
+n04127249	[safety pin]【確か】
+n04131690	[saltshaker],[salt shaker]【塩入れ】
+n04133789	[sandal]【サンダル】
+n04136333	[sarong]【サロン】
+n04141076	[sax],[saxophone]【サックス】
+n04141327	[scabbard]【鞘】
+n04141975	[scale],[weighing machine]【鱗状】
+n04146614	[school bus]【スクールバス】
+n04147183	[schooner]【スクーネル】
+n04149813	[scoreboard]【スコアボード】
+n04152593	[screen],[CRT screen]【隔壁】
+n04153751	[screw]【螺旋釘】
+n04154565	[screwdriver]【螺旋抜き】
+n04162706	[seat belt],[seatbelt]【安全ベルト】
+n04179913	[sewing machine]【ミシン】
+n04192698	[shield],[buckler]【防衛】
+n04200800	[shoe shop],[shoe-shop],[shoe store]【靴屋】
+n04201297	[shoji]【障子】
+n04204238	[shopping basket]
+n04204347	[shopping cart]【ショッピングカート】
+n04208210	[shovel]【スコップ】
+n04209133	[shower cap]
+n04209239	[shower curtain]【シャワーカーテン】
+n04228054	[ski]【スキーの板】
+n04229816	[ski mask]【目出し帽】
+n04235860	[sleeping bag]【寝袋】
+n04238763	[slide rule],[slipstick]【計算尺】
+n04239074	[sliding door]【雨戸】
+n04243546	[slot],[one-armed bandit]【寸隙】
+n04251144	[snorkel]【スノーケル】
+n04252077	[snowmobile]【雪上車】
+n04252225	[snowplow],[snowplough]【雪掻車】
+n04254120	[soap dispenser]
+n04254680	[soccer ball]【サッカーボール】
+n04254777	[sock]【ソックス】
+n04258138	[solar dish],[solar collector],[solar furnace]【太陽炉】
+n04259630	[sombrero]【被り】
+n04263257	[soup bowl]【汁椀】
+n04264628	[space bar]【スペースバー】
+n04265275	[space heater]【スペースヒーター】
+n04266014	[space shuttle]【宇宙連絡船】
+n04270147	[spatula]【篦】
+n04273569	[speedboat]【レース艇】
+n04275548	[spider web],[spider's web]【蜘蛛の巣】
+n04277352	[spindle]【錘】
+n04285008	[sports car],[sport car]【スポーツカー】
+n04286575	[spotlight],[spot]【面灯火】
+n04296562	[stage]【高座】
+n04310018	[steam locomotive]【ＳＬ】
+n04311004	[steel arch bridge]
+n04311174	[steel drum]【スティールドラム】
+n04317175	[stethoscope]【聴診器】
+n04325704	[stole]【贏】
+n04326547	[stone wall]【石崖】
+n04328186	[stopwatch],[stop watch]【秒時計】
+n04330267	[stove]【窯】
+n04332243	[strainer]【裏漉し】
+n04335435	[streetcar],[tram],[tramcar],[trolley],[trolley car]【電車】
+n04336792	[stretcher]【釣台】
+n04344873	[studio couch],[day bed]【デイベッド】
+n04346328	[stupa],[tope]【率塔婆】
+n04347754	[submarine],[pigboat],[sub],[U-boat]【潜艦】
+n04350905	[suit],[suit of clothes]【願望】
+n04355338	[sundial]【晷針】
+n04355933	[sunglass]
+n04356056	[sunglasses],[dark glasses],[shades]【黒眼鏡】
+n04357314	[sunscreen],[sunblock],[sun blocker]【日覆い】
+n04366367	[suspension bridge]【陸橋】
+n04367480	[swab],[swob],[mop]【雑巾】
+n04370456	[sweatshirt]【トレーナー】
+n04371430	[swimming trunks],[bathing trunks]【海水着】
+n04371774	[swing]【鞦韆】
+n04372370	[switch],[electric switch],[electrical switch]【髢】
+n04376876	[syringe]【洗瓶】
+n04380533	[table lamp]
+n04389033	[tank],[army tank],[armored combat vehicle],[armoured combat vehicle]【軍車】
+n04392985	[tape player]【テーププレーヤー】
+n04398044	[teapot]【茶瓶】
+n04399382	[teddy],[teddy bear]【テディーベア】
+n04404412	[television],[television system]【テレビシステム】
+n04409515	[tennis ball]【テニスボール】
+n04417672	[thatch],[thatched roof]【藁葺き】
+n04418357	[theater curtain],[theatre curtain]
+n04423845	[thimble]【指革】
+n04428191	[thresher],[thrasher],[threshing machine]【麦扱き】
+n04429376	[throne]【高御座】
+n04435653	[tile roof]【瓦屋根】
+n04442312	[toaster]【焙炉】
+n04443257	[tobacco shop],[tobacconist shop],[tobacconist]【煙草屋】
+n04447861	[toilet seat]【褻器】
+n04456115	[torch]【続松】
+n04458633	[totem pole]【トーテムポール】
+n04461696	[tow truck],[tow car],[wrecker]【牽引車】
+n04462240	[toyshop]【玩具屋】
+n04465501	[tractor]【牽引車】
+n04467665	[trailer truck],[tractor trailer],[trucking rig],[rig],[articulated lorry],[semi]【買占め】
+n04476259	[tray]【高地】
+n04479046	[trench coat]【レーンコート】
+n04482393	[tricycle],[trike],[velocipede]【三輪車】
+n04483307	[trimaran]【トリマラン】
+n04485082	[tripod]【鼎足】
+n04486054	[triumphal arch]【凱旋門】
+n04487081	[trolleybus],[trolley coach],[trackless trolley]【トロリーバス】
+n04487394	[trombone]【トロンボーン】
+n04493381	[tub],[vat]【貯水池】
+n04501370	[turnstile]
+n04505470	[typewriter keyboard]
+n04507155	[umbrella]【雨具】
+n04509417	[unicycle],[monocycle]【一輪車】
+n04515003	[upright],[upright piano]【鉛直】
+n04517823	[vacuum],[vacuum cleaner]【電気掃除機】
+n04522168	[vase]【萼】
+n04523525	[vault]【骨堂】
+n04525038	[velvet]【本天】
+n04525305	[vending machine]【販売機】
+n04532106	[vestment]【法衣】
+n04532670	[viaduct]【陸橋】
+n04536866	[violin],[fiddle]【鼓弓】
+n04540053	[volleyball]【排球】
+n04542943	[waffle iron]
+n04548280	[wall clock]【柱時計】
+n04548362	[wallet],[billfold],[notecase],[pocketbook]【鞄】
+n04550184	[wardrobe],[closet],[press]【論壇】
+n04552348	[warplane],[military plane]【軍用機】
+n04553703	[washbasin],[handbasin],[washbowl],[lavabo],[wash-hand basin]【金盥】
+n04554684	[washer],[automatic washer],[washing machine]【湯手】
+n04557648	[water bottle]【水筒】
+n04560804	[water jug]【点水】
+n04562935	[water tower]【給水塔】
+n04579145	[whiskey jug]
+n04579432	[whistle]【遠吠え】
+n04584207	[wig]【鬘】
+n04589890	[window screen]
+n04590129	[window shade]【日覆い】
+n04591157	[Windsor tie]【ウィンザータイ】
+n04591713	[wine bottle]
+n04592741	[wing]【鏡の間】
+n04596742	[wok]【中華鍋】
+n04597913	[wooden spoon]【杓文字】
+n04599235	[wool],[woolen],[woollen]【羊毛】
+n04604644	[worm fence],[snake fence],[snake-rail fence],[Virginia fence]
+n04606251	[wreck]【難船】
+n04612504	[yawl]
+n04613696	[yurt]【ユルト】
+n06359193	[web site],[website],[internet site],[site]【部位】
+n06596364	[comic book]【漫画雑誌】
+n06785654	[crossword puzzle],[crossword]【クロスワードパズル】
+n06794110	[street sign]
+n06874185	[traffic light],[traffic signal],[stoplight]【赤信号】
+n07248320	[book jacket],[dust cover],[dust jacket],[dust wrapper]【表紙カバー】
+n07565083	[menu]【飯】
+n07579787	[plate]【長押】
+n07583066	[guacamole]【ワカモレ】
+n07584110	[consomme]【コンソメ】
+n07590611	[hot pot],[hotpot]【鍋物】
+n07613480	[trifle]【鬼窟】
+n07614500	[ice cream],[icecream]【氷菓】
+n07615774	[ice lolly],[lolly],[lollipop],[popsicle]【飴ん棒】
+n07684084	[French loaf]
+n07693725	[bagel],[beigel]【ベーグル】
+n07695742	[pretzel]【プレッツェル】
+n07697313	[cheeseburger]【チーズバーガー】
+n07697537	[hotdog],[hot dog],[red hot]【赤熱】
+n07711569	[mashed potato]【マッシュポテト】
+n07714571	[head cabbage]【キャベツ】
+n07714990	[broccoli]【ブロッコリー】
+n07715103	[cauliflower]【花野菜】
+n07716358	[zucchini],[courgette]【ズッキーニ】
+n07716906	[spaghetti squash]
+n07717410	[acorn squash]
+n07717556	[butternut squash]
+n07718472	[cucumber],[cuke]【黄瓜】
+n07718747	[artichoke],[globe artichoke]【薊】
+n07720875	[bell pepper]【ピーマン】
+n07730033	[cardoon]
+n07734744	[mushroom]【菌】
+n07742313	[Granny Smith]
+n07745940	[strawberry]【阿蘭陀苺】
+n07747607	[orange]【紅蜜柑】
+n07749582	[lemon]【淡黄色】
+n07753113	[fig]【無花果状果】
+n07753275	[pineapple],[ananas]【鳳梨】
+n07753592	[banana]【姫芭蕉】
+n07754684	[jackfruit],[jak],[jack]【波羅蜜】
+n07760859	[custard apple]【ポポー】
+n07768694	[pomegranate]【石榴】
+n07802026	[hay]【馬草】
+n07831146	[carbonara]【カルボナーラ】
+n07836838	[chocolate sauce],[chocolate syrup]
+n07860988	[dough]【貼付け】
+n07871810	[meat loaf],[meatloaf]【ミートローフ】
+n07873807	[pizza],[pizza pie]【ピッツア】
+n07875152	[potpie]【ポットパイ】
+n07880968	[burrito]
+n07892512	[red wine]【赤面】
+n07920052	[espresso]【カフェエスプレッソ】
+n07930864	[cup]【酒盃】
+n07932039	[eggnog]【玉子酒】
+n09193705	[alp]【高峰】
+n09229709	[bubble]【泡沫】
+n09246464	[cliff],[drop],[drop-off]【雫】
+n09256479	[coral reef]【珊瑚礁】
+n09288635	[geyser]【間歇泉】
+n09332890	[lakeside],[lakeshore]【湖畔】
+n09399592	[promontory],[headland],[head],[foreland]【魁首】
+n09421951	[sandbar],[sand bar]【砂洲】
+n09428293	[seashore],[coast],[seacoast],[sea-coast]【臨海】
+n09468604	[valley],[vale]【陰】
+n09472597	[volcano]【火山】
+n09835506	[ballplayer],[baseball player]【野球選手】
+n10148035	[groom],[bridegroom]【馬手】
+n10565667	[scuba diver]
+n11879895	[rapeseed]【菜種】
+n11939491	[daisy]【雛菊】
+n12057211	[yellow lady's slipper],[yellow lady-slipper],[Cypripedium calceolus],[Cypripedium parviflorum]
+n12144580	[corn]【鶏眼】
+n12267677	[acorn]【橡栗】
+n12620546	[hip],[rose hip],[rosehip]【隅棟】
+n12768682	[buckeye],[horse chestnut],[conker]【西洋橡の木】
+n12985857	[coral fungus]
+n12998815	[agaric]
+n13037406	[gyromitra]
+n13040303	[stinkhorn],[carrion fungus]【スッポンタケ】
+n13044778	[earthstar]【土栗】
+n13052670	[hen-of-the-woods],[hen of the woods],[Polyporus frondosus],[Grifola frondosa]【マイタケ】
+n13054560	[bolete]
+n13133613	[ear],[spike],[capitulum]【頭花】
+n15075141	[toilet tissue],[toilet paper],[bathroom tissue]【落紙】
